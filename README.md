@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 - 🔭 I’m currently working on **SnapscoutProject**
 
-- 👯 I’m looking to collaborate on **Friendly Backend Devs**
+- 👯 I’m looking to collaborate with **Friendly Backend Devs**
 
 - 📫 How to reach me **gio.gonzales@carsu.edu.ph**
 
